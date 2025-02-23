@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola! Soy Sebastian
 
+#### Soy biologo y actualmente trabajo analizando datos acusticos 
 <!--
 **JohnSOv/johnsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
